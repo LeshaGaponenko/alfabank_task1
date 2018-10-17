@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\alfa_bank _task1\alfa_bank _task1\bin\Debug\alfa_bank _task1.exe
+c:\users\admin\documents\visual studio 2010\Projects\alfa_bank _task1\alfa_bank _task1\bin\Debug\alfa_bank _task1.pdb
+c:\users\admin\documents\visual studio 2010\Projects\alfa_bank _task1\alfa_bank _task1\obj\x86\Debug\alfa_bank _task1.exe
+c:\users\admin\documents\visual studio 2010\Projects\alfa_bank _task1\alfa_bank _task1\obj\x86\Debug\alfa_bank _task1.pdb
